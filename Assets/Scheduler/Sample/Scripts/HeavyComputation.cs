@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using DisciplesOfTheBread.Scheduler;
+using DisciplesOfTheBeard.Scheduler;
 
 public class HeavyComputation : MonoBehaviour
 {

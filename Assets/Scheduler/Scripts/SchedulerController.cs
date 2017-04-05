@@ -7,7 +7,7 @@ using System.Reflection;
 using System.Threading;
 using System.Collections.Concurrent;
 
-namespace DisciplesOfTheBread.Scheduler
+namespace DisciplesOfTheBeard.Scheduler
 {
 	public class SchedulerController : MonoBehaviour 
 	{

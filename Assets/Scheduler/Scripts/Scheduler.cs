@@ -2,14 +2,12 @@
 using System.Collections.Generic;
 using UnityEngine;
 using System;
+using System.Diagnostics;
 
-namespace DisciplesOfTheBread.Scheduler
+namespace DisciplesOfTheBeard.Scheduler
 {
 	// TODO: replace by covariant IScheduler<out T> as soon Unity supports it correctly
 	 
-	using System.Diagnostics;
-
-
 	public interface IScheduler 
 	{
 		string Name { get;}

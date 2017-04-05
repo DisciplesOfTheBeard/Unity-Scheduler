@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using System;
 
-namespace DisciplesOfTheBread.Scheduler
+namespace DisciplesOfTheBeard.Scheduler
 {
 	public interface IQueueManager
 	{
